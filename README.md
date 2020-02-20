@@ -1,9 +1,9 @@
 # Test-Bagidata Data Engineer
 Ini adalah test untuk Data Engineer di Bagidata
 
-<ol>
-<li>Buatlah REST API yang dapat digunakan untuk scraping data dari akun Facebook dengan parameter yang diinputkan adalah username dari akun Facebook, dengan ketentuan:</li>
-  <ul>
+
+1.  Buatlah REST API yang dapat digunakan untuk scraping data dari akun Facebook dengan parameter yang diinputkan adalah username dari akun Facebook, dengan ketentuan:
+ <ul>
   <li>Hasil scrape dapat langsung disimpan dalam format CSV, JSON dan SQLHasil scrape dapat langsung disimpan dalam format CSV, JSON dan  SQL</li>
   <li>Data yang harus di scrape antara lain:</li>
     General informasi meliputi:
@@ -23,11 +23,11 @@ Ini adalah test untuk Data Engineer di Bagidata
     <li>Post URL</li>
     <li>Jumlah Reaction</li>
     <li>Komentar Post</li>
-  </ul>
+</ul>
 
-<li>Buatlah REST API yang dapat digunakan untuk scraping semua judul berita dari portal berita dengan ketentuan:</li>
+2.  Buatlah REST API yang dapat digunakan untuk scraping semua judul berita dari portal berita dengan ketentuan:
 <ul>
   <li>Scrape hanya judul berita dengan kategori/tag Finance</li>
   <li>Hasil scrape dapat langsung disimpan dalam format CSV, JSON dan SQL</li>
 </ul>
-</ol>
+
