@@ -15,7 +15,7 @@ Ini adalah test untuk Data Engineer di Bagidata
     <li>Biografi</li>
     <li>Relationship</li>
     <li>Tanggal Lahir</li>
-    <li>Jumlah Teman/li>
+    <li>Jumlah Teman</li>
   </ul>
     Detail Post meliputi:
     <ul>
