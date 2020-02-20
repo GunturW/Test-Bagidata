@@ -24,6 +24,8 @@ Ini adalah test untuk Data Engineer di Bagidata
     <li>Komentar Post</li>
   </ul>
 
+
+
 2. Buatlah REST API yang dapat digunakan untuk scraping semua judul berita dari portal berita dengan ketentuan:
 <ul>
   <li>Scrape hanya judul berita dengan kategori/tag Finance</li>
