@@ -33,3 +33,9 @@ Ini adalah test untuk Data Engineer di Bagidata
   <li>Hasil scrape dapat langsung disimpan dalam format CSV, JSON dan SQL</li>
 </ul>
 </ol>
+
+<h2>Library yang digunakan :</h2>
+<ol>
+ <li>os</li>
+ <li>Pandas</li>
+ </ol>
