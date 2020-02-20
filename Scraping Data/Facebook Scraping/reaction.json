@@ -1,0 +1,21 @@
+{
+    "reactions": {
+        "data": [
+            {
+                "id": "3274665159216990",
+                "name": "Guntur Wicaksono",
+                "type": "LIKE"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "QVFIUlczeDZAwd1ZAjMUpKWnh6cW1ON05felo0S0xYUWU2M3BJWDdnNlZAoZAlpvREwzeVVSWXhEejdmX2F1aHFqV0JJQ01MS2VCeXF5TGZALSTVpRVAybi1ZAM0NB",
+                "after": "QVFIUlczeDZAwd1ZAjMUpKWnh6cW1ON05felo0S0xYUWU2M3BJWDdnNlZAoZAlpvREwzeVVSWXhEejdmX2F1aHFqV0JJQ01MS2VCeXF5TGZALSTVpRVAybi1ZAM0NB"
+            }
+        },
+        "summary": {
+            "total_count": 1
+        }
+    },
+    "id": "3274665159216990_3274852839198222"
+}

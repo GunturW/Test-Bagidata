@@ -1,0 +1,1 @@
+(0, 0, '03/31/1995', 3274665159216990, 'Guntur Wicaksono', 50, 0, 'https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=3274665159216990&height=50&width=50&ext=1584786652&hash=AeS6CcEIMd2BOjuv', 50, '[]', 641),
