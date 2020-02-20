@@ -5,4 +5,21 @@ Ini adalah test untuk Data Engineer di Bagidata
 <ul>
   <li>Hasil scrape dapat langsung disimpan dalam format CSV, JSON dan SQLHasil scrape dapat langsung disimpan dalam format CSV, JSON dan SQL</li>
   <li>Data yang harus di scrape antara lain:</li>
-  
+    General informasi meliputi:
+    <ul>
+    <li>Nama Lengkap</li>
+    <li>User ID</li>
+    <li>Photo Profil</li>
+    <li>Cover Image</li>
+    <li>Biografi</li>
+    <li>Relationship</li>
+    <li>Tanggal Lahir</li>
+    <li>Jumlah Teman/li></ul>
+    Detail Post meliputi:
+    <ul>
+    <li>Post Text</li>
+    <li>Post Date</li>
+    <li>Post URL</li>
+    <li>Jumlah Reaction</li>
+    <li>Komentar Post</li>
+  </ul>
