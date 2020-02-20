@@ -37,5 +37,10 @@ Ini adalah test untuk Data Engineer di Bagidata
 <h2>Library yang digunakan :</h2>
 <ol>
  <li>os</li>
+ <li>requests</li>
+ <li>facebook</li>
  <li>Pandas</li>
+ <li>json</li>
+ <li>csv</li>
+ <li>sqlalchemy</li>
  </ol>
